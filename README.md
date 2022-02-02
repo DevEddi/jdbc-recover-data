@@ -16,6 +16,5 @@
   <img align="center" alt="3DD1-INTELLIJ" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
 </div>
 
-## Reference
 
 
